@@ -1,0 +1,1 @@
+This project is a random background color generator, a quick and easy app made with HTML, CSS, and JavaScript.
